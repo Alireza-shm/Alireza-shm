@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 
 <h3 align="center">Ph.D. Candidate at UT Arlington & AI enthusiast</h3>
-<p align="center">"Specialize in Data Science, Natural Language Processing, Machine Learning, and Deep Learning"</p>
+<p align="center">Specialize in Data Science, Natural Language Processing, Machine Learning, and Deep Learning</p>
 <p align="center"><img src="images/hello_there.gif"></p>
 
 <!---<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>--->
