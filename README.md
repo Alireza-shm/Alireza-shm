@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 
-<h3 align="center">Ph.D. Candidate in Civil Engineering & AI enthusiast</h3>
-<p align="center">"Integrating NLP, ML, and DL Approaches in Construction Project Engineering & Management"</p>
+<h3 align="center">Ph.D. Candidate at UT Arlington & AI enthusiast</h3>
+<p align="center">"Specialize in Data Science, Natural Language Processing, Machine Learning, and Deep Learning"</p>
 <p align="center"><img src="images/hello_there.gif"></p>
 
 <!---<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>--->
 
-- `whoami` Ph.D. Candidate in Civil Engineering <a href="https://hubilab.uta.edu/people/"> The Humanized Built Environment (Hbe) </a> Lab <a href="https://www.uta.edu/">@UT Arlington</a>
+- `whoami` Ph.D. Candidate at UT Arlington <a href="https://hubilab.uta.edu/people/"> The Humanized Built Environment (Hbe) </a> Lab <a href="https://www.uta.edu/">@UT Arlington</a>
 
 <!--- `uptime` 25 years-->
 
