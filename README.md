@@ -6,7 +6,7 @@
 
 <!---<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>--->
 
-- `whoami` Ph.D. Candidate at UT Arlington <a href="https://hubilab.uta.edu/people/"> The Humanized Built Environment (Hbe) </a> Lab <a href="https://www.uta.edu/">@UT Arlington</a>
+- `whoami` Ph.D. Candidate at UT Arlington <a href="https://hubilab.uta.edu/people/"> The Humanized Built Environment (Hbe) </a> Lab <a href="https://www.uta.edu/academics/faculty/profile?username=shamshiria">@UT Arlington</a>
 
 <!--- `uptime` 25 years-->
 
